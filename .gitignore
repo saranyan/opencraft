@@ -24,3 +24,6 @@ server/models
 .env
 .env.*
 !.env.example
+
+#mistral model file
+mistral-*
